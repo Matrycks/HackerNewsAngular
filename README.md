@@ -1,4 +1,4 @@
-# HackerNewsAngular
+# HackerNews Angular
 A test angular application which pulls top stories from the Hacker News Api.
 
 Features:
